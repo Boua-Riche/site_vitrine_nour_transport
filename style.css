@@ -1,0 +1,99 @@
+body{
+    padding: 80px;
+}
+#apropos {
+background-image: url(image\ fond.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+}
+#textapropos1 {
+    position: center;
+    text-align: center;
+    padding-top: 15%;
+    
+    color: white;
+    font-size: 5em;
+}
+#textapropos2 {
+    position: center;
+    text-align: center;
+    margin-top: -5%;
+    color: white;
+    font-size: 3em;
+}
+#lasociete{
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    background-color: #EFAD10;
+}
+
+#colonne1{
+   height: 310px;
+   padding: 10px;
+    color: #fff;
+    width: 30%;
+    background-color: #EFAD10;
+    border-radius: 20px;
+}
+#colonne2{
+    padding: 10px;
+    color: #fff;
+    width: 30%;
+    margin-left: 33%;
+    margin-top: -30%;
+    margin-right: 30px;
+    background-color: #EFAD10;
+    border-radius: 20px;
+}
+#colonne3{
+    padding: 10px;
+    margin-left: 66%;
+    margin-top: -33%;
+    color: #fff;
+    width: 30%;
+    background-color: #EFAD10;
+    margin-bottom: 7%;
+    border-radius: 20px;
+}
+#lequipe{
+    
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+    background-color: #EFAD10;
+}
+.img{
+    border-radius: 50%;
+}
+#imgdg{
+    margin-left: 40%;
+   
+}
+#imgcp{
+    margin-left: 75%;
+    margin-top: -34%;
+}
+#imgcom{
+    margin-left: 38%;
+}
+#comp{
+    margin-left: 8%;
+}
+#dg{
+    margin-left: 5%;
+}
+#cp{
+    margin-left: 13%;
+}
+#orga{
+    color: #020086;
+    text-decoration: underline;
+    text-align: center;
+   
+}
+#ORGANIGRAMME{
+    margin-top: 100px;
+}

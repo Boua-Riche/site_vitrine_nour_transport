@@ -1,0 +1,173 @@
+body{
+    padding: 30px;
+}
+#nourbtp{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #EFAD10;
+}
+#p1{
+    background-color: #FBEBC6;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-transform: uppercase;
+    line-height: 35px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 10px;
+    word-spacing: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+#service{
+    background-image:url(imagefont.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+#service p{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+#forage{
+float: left;
+
+}
+#forage img{
+    width: 350px;
+    height: 300px;
+}
+#hangar{
+    float: right;
+}
+#hangar img{
+    width: 350px;
+    height: 300px;
+}
+#ecole{
+    display: inline-block;
+    margin-left: 70px;
+    
+}
+#ecole img{
+    width: 350px;
+    height: 300px;
+}
+#nosmoyens{
+    margin: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#hydro p{
+width: 45%;
+margin-top: 3%;
+margin-left: 5%;
+margin-right: 18%;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 30px;
+color: #020086;
+float: left;
+font-weight: 700;
+}
+#part3{
+    background-color: #EFAD10;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+#hydro1 img{
+    border-radius: 100%;
+    
+}
+#nosprod{
+    margin-left: 30%;
+}
+#li1{
+    float: left;
+}
+#li3{
+    float: left;
+    margin-left: 30px;
+    
+}
+#li2{
+    display: inline-block;
+}
+#li1 ul{
+    list-style: none;
+    text-align: center;
+
+}
+#li2 ul{
+    list-style: none;
+    text-align: center;
+
+}
+#li3 ul{
+    list-style: none;
+    text-align: center;
+}
+.enteteli1{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+#hydro2 img{
+    width: 30%;
+    border-radius: 100%;
+    margin-left: 60%;
+    margin-top: -19%;
+}
+#nosproduits{
+    margin: 60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#comerce p{
+ width: 45%;
+margin-top: 3%;
+margin-left: 5%;
+margin-right: 18%;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 30px;
+color: #020086;
+float: left;
+font-weight: 700;
+}
+#part4{
+    background-color: #EFAD10;
+    padding: 10px;
+    padding-bottom: 20px;
+}
+#commerce1 img{
+border-radius: 100%;
+}
+#commercegeneral{
+    margin-left: 30%;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+}
+#li4 ul{
+    list-style: none;
+    line-height: 30px;
+    font-size: 22px;
+
+}
+#commerce2 img{
+    width: 30%;
+    border-radius: 100%;
+    margin-left: 60%;
+    margin-top: -30%;
+}
+
+
+

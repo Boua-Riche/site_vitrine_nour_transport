@@ -1,0 +1,59 @@
+body{
+    padding: 30px;
+}
+h1{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    width: 45%;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+    letter-spacing: 3px;
+}
+#part2{
+    margin-left: 50%;
+    margin-top: -31%;
+}
+.champs{
+    display: flex;
+    flex-direction: column;
+   margin-top: 40px;
+}
+.champs input{
+   border: 2px solid #EFAD10;
+    outline-color: #EFAD10;
+    border-radius: 5px;
+    height: 40px;
+    padding-left: 30px;
+
+}
+textarea{
+    resize: none;
+    border: 2px solid #EFAD10;
+    outline-color: #EFAD10;
+    border-radius: 5px;
+    padding: 30px;
+}
+#button{
+    padding: 10px 15px ;
+    font-size: 20px ;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+label{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+   
+}
